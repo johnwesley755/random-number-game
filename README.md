@@ -1,7 +1,3 @@
-Here's the README file for your "Random Number Game" project:
-
----
-
 # Random Number Game
 
 This project is a simple web-based game where the player tries to guess a randomly generated number between 1 and 10. It is built using HTML, CSS, and JavaScript, and features a clean and modern UI with responsive design.
