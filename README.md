@@ -51,5 +51,3 @@ To run the project locally:
 Contributions are welcome! If you'd like to improve the game, feel free to fork the repository, make your changes, and submit a pull request.
 
 ---
-
-This README file provides an overview of your project, including instructions on how to install, use, and contribute to it.
